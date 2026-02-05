@@ -1,4 +1,5 @@
 # github-demo
+
 This is my first Git Respository
 <br>
-Author - Sukhmeet Singh 
+Author - Sukhmeet (Git Hub Demo)
